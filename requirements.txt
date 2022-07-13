@@ -1,0 +1,12 @@
+pandas==1.2.4
+
+numpy==1.22.1
+
+matplotlib==3.5.1
+
+pymatgen==2022.0.10
+
+scipy==1.8.0
+
+
+
